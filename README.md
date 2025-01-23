@@ -11,7 +11,7 @@
   [Linkedin](https://www.linkedin.com/in/gabriel-celestino-911b62249/)
   
 
-- **Empresa que Trabalho**
+- **Empresa que Trabalho** 
 
   <img src="https://jcconcursos.com.br/media/uploads/noticia/cptm_novo.jpg" alt="Logo do Projeto" width="300" />
 
